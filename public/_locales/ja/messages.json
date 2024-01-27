@@ -1,0 +1,47 @@
+{
+  "extension_name": {
+    "message": "フォーム一時保存"
+  },
+  "save": {
+    "message": "保存"
+  },
+  "seconds_ago": {
+    "message": "$value$秒前",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "32"
+      }
+    }
+  },
+  "minutes_ago": {
+    "message": "$value$分前",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "48"
+      }
+    }
+  },
+  "hours_ago": {
+    "message": "$value$時間前",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "days_ago": {
+    "message": "$value$日前",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "continue_even_not_same_form": {
+    "message": "保存時のフォームと形式が異なる可能性があります。続行しますか？"
+  }
+}

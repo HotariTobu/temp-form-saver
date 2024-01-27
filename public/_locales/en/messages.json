@@ -1,0 +1,47 @@
+{
+  "extension_name": {
+    "message": "Temp Form Saver"
+  },
+  "save": {
+    "message": "Save"
+  },
+  "seconds_ago": {
+    "message": "$value$ seconds ago",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "32"
+      }
+    }
+  },
+  "minutes_ago": {
+    "message": "$value$ minutes ago",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "48"
+      }
+    }
+  },
+  "hours_ago": {
+    "message": "$value$ hours ago",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "12"
+      }
+    }
+  },
+  "days_ago": {
+    "message": "$value$ days ago",
+    "placeholders": {
+      "value": {
+        "content": "$1",
+        "example": "4"
+      }
+    }
+  },
+  "continue_even_not_same_form": {
+    "message": "The form may differ from one when saved. Continue?"
+  }
+}
